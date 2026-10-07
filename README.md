@@ -1,4 +1,4 @@
-<h2>README</h2>
+## README
 
 This is the latest release for GradXen client - the student app for computer-based tests.
 1. You can download this .EXE file, which is an installer for Windows. 
@@ -9,4 +9,5 @@ This is the latest release for GradXen client - the student app for computer-bas
 Happy testing!
 
 Warm Regards,
+
 The Gradxen Team
